@@ -8,4 +8,4 @@ Hi there 👋 I'm Ameer HamzaCloud Applied Generative AI Engineer (GenEng)
 🧠 My learning is advancing at the Presidential Initiative for Artificial Intelligence and Computing (PIAIC).
 
 SkillsPython | Flask | LangChain | OpenAI SDK | Next.js 14 | FastAPI | GenAI Stack | Docker | Google Cloud | Git  
-SocialsLinkedIn | Email: ameerhamza005@gmail.com
+SocialsLinkedIn "Ameer Hamza"
